@@ -36,7 +36,7 @@ class App(devops.DevOpsApp):
         docker_args += ' -w %s' % (working_dir)
 
         self.stop_container(container_name)
-        image = 'docker-genesis.0xhash.cn' + image_name
+        image = 'docker-genesis.0xhash.cn/' + image_name
         cmd = 'docker run -it %s --rm %s %s' % (docker_args, image, cmd)
         self.shell_run(cmd)
 
