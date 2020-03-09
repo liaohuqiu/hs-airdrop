@@ -1,0 +1,6 @@
+#!/bin/bash
+pip install pip --index-url https://nexus-genesis.vhash.io/repository/pypi-all/simple
+file=$1
+shift
+rest=$@
+python manager.py run --key_file $file --args "$rest"

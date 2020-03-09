@@ -1,0 +1,8 @@
+tmp
+*.pyc
+*.retry
+templates/root-ssh/authorized_keys
+.idea
+.DS_Store
+.idea
+*.*.*.bak
