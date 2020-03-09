@@ -28,7 +28,7 @@ cd hs-airdrop
 2. 地址在「空投页面」的第四步，有个按钮，点击获取：如下图，每次刷新，获取的地址都会变化，这个没关系；
 3. 费率建议 0.01，我设置成 1。
 
-<img src="http://srain-blog.android-gems.com/hs-airdrop/1.png"  width="640" height="auto">
+<img src="https://srain-blog.android-gems.com/hs-airdrop/1.png"  width="640" height="auto">
 
 如：
 
@@ -45,15 +45,15 @@ cd hs-airdrop
 
 将它贴到「空投页面」第五步提交，如图：
 
-<img src="http://srain-blog.android-gems.com/hs-airdrop/3.png"  width="640" height="auto">
+<img src="https://srain-blog.android-gems.com/hs-airdrop/3.png"  width="640" height="auto">
 
 提示成功：
 
-<img src="http://srain-blog.android-gems.com/hs-airdrop/4.png"  width="640" height="auto">
+<img src="https://srain-blog.android-gems.com/hs-airdrop/4.png"  width="640" height="auto">
 
 然后提示成功，打开 https://www.namebase.io/dashboard 会显示有进行中的交易，16 个小时左右到帐。
 
-<img src="http://srain-blog.android-gems.com/hs-airdrop/5.png"  width="640" height="auto">
+<img src="https://srain-blog.android-gems.com/hs-airdrop/5.png"  width="640" height="auto">
 
 ### 换成 BTC
 
@@ -67,5 +67,5 @@ cd hs-airdrop
 购买矿机挖矿相当于低价够买 BTC，矿机不短挖出 BTC，在价格合适的时候，卖出。所谓「熊市专心挖币，牛市卖出」。
 
 1. [1Time.com](https://www.1tmine.com/mine/index?invite_id=1606572066732079)，推荐购买 M20s。
-1. [「比特袋鼠」](https://www.btcroo.com?invite_key=qiubaiwan)，推荐购买 60 天的套餐。
+1. [比特袋鼠](https://www.btcroo.com?invite_key=qiubaiwan)，推荐购买 60 天的套餐。
 
